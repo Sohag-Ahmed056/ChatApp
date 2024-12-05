@@ -7,10 +7,10 @@ config();
 const seedUsers = [
   // Female Users
   {
-    email: "emma.thompson@example.com",
-    fullName: "Emma Thompson",
-    password: "123456",
-    profilePic: "https://randomuser.me/api/portraits/women/1.jpg",
+    email: "maneul@gmail.com",
+    fullName: "Maneul Islam",
+    password: "69698",
+    profilePic: "https://scontent.fdac11-2.fna.fbcdn.net/v/t39.30808-6/324189122_3455954091355472_4202450920025389289_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGo9WBT9iUP1szSCL5Tz5RFGNgZKRwvbjoY2BkpHC9uOudvXirsT8D5mgofNiFBg66Ld6W1qXpJYNyyAR_I7pH7&_nc_ohc=sJd792dbzdAQ7kNvgH2U-VY&_nc_zt=23&_nc_ht=scontent.fdac11-2.fna&_nc_gid=AdU-J17EUJeGRY8LieFppAG&oh=00_AYBheSgwGGpG1BRohm4r251w6hJAH-sZm8Dvc3Z2BchyBQ&oe=6757752A",
   },
   {
     email: "olivia.miller@example.com",
